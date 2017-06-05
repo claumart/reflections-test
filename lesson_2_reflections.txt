@@ -9,3 +9,6 @@ R// BY only including the realated files with the logical change
 
 4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 R//When you wanna make alternative versions of your program, branches would help to have a better management of your versions
+
+5. How do the diagrams help you visualize the branch structure?
+R// Allow you visualize the history in a graphic way
