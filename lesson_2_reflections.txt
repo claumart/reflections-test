@@ -6,3 +6,6 @@ R// In the staging area there are only the files we'll commit, the value that th
 
 3. How can you use the staging area to make sure you have one commit per logical change?
 R// BY only including the realated files with the logical change
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+R//When you wanna make alternative versions of your program, branches would help to have a better management of your versions
