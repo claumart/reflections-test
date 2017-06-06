@@ -12,3 +12,6 @@ R//When you wanna make alternative versions of your program, branches would help
 
 5. How do the diagrams help you visualize the branch structure?
 R// Allow you visualize the history in a graphic way
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+R// The result is one single branch which have the name of the checkouted branch
