@@ -1,0 +1,2 @@
+1. When do you want to create a remote repository rather than keeping all your work local?
+R// I preffer to work with a remote repository when i need to access to my work in differents machines
