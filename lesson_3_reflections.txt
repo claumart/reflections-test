@@ -3,3 +3,7 @@ R// I preffer to work with a remote repository when i need to access to my work 
 
 2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 R//'Cause i probably don't wanna upload the changes of the commit that GitHub is pushing
+
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+R// The main diference is the scope of the saves. With branches you only can save the changes of the same repository.
+Using forking you can clone a repository in GitHub to a directory's account always in GitHub. Finally with clone you can replicate a .Git repository either in your local computer or from GitHub.
