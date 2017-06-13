@@ -10,3 +10,7 @@ Using forking you can clone a repository in GitHub to a directory's account alwa
 
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 R// You can have access to the lastest commits without internet
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+R// The easier would be don´t have to depppend of an extra tool for making your changes.
+The harder would be analyze by your own huge amaunts of code only for seek one different.
